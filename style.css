@@ -20,3 +20,9 @@ nav {
     color: ivory;
     margin: 0 10px;
 }
+.menu-box {
+    width: 90%;
+    height: 400px;
+    background-color: darkolivegreen;
+    margin: 20px auto;
+}
