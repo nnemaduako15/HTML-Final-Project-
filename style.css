@@ -8,8 +8,9 @@ body {
     border-radius: 50px;
     margin: 20px auto;
 }
-h1{
+h1 {
     text-align: center;
+    color: ivory;
 
 }
 nav {
@@ -17,5 +18,5 @@ nav {
 }
 .mo {
     color: ivory;
-    margin: 0 15px;
+    margin: 0 10px;
 }
