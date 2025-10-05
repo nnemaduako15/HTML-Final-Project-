@@ -1,3 +1,10 @@
 body {
     background-color: ivory;
 }
+.banner {
+    width: 90%;
+    height: 80px;
+    background-color: darkolivegreen;
+    border-radius: 50px;
+    margin: auto;
+}
