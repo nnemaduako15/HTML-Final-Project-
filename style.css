@@ -45,7 +45,7 @@ nav {
 }
 
 .box {
-    width: 90%;
+    width: 94%;
     min-height: 650px;
     background-color: darkolivegreen;
     margin: 20px auto;
@@ -53,9 +53,9 @@ nav {
     padding: 20px;
     box-sizing: border-box;
 }
-.box2 {
-    background-color: cornsilk;
-    width: 93%;
+.order-box {
+    background-color: rgb(247, 247, 228);
+    width: 90%;
     min-height: 400px;
     margin: 20px auto;
     padding: 20px;
@@ -67,4 +67,8 @@ h2 {
     text-align: center;
     font-size: 2em;
     margin-bottom: 20px;
+}
+
+#order-title {
+    color: darkolivegreen;
 }
