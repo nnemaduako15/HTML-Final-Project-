@@ -13,6 +13,11 @@ body {
     margin: 20px auto;
     gap: 10px;
 }
+.header-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 #header-img {
     width: 120px;
