@@ -25,6 +25,7 @@ nav {
     height: 400px;
     background-color: darkolivegreen;
     margin: 20px auto;
+    border-radius: 50px;
 }
 h2 {
     color: ivory;
