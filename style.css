@@ -1,6 +1,7 @@
 body {
     background-color: ivory;
 }
+
 .banner {
     width: 90%;
     height: 100px;
@@ -8,18 +9,27 @@ body {
     border-radius: 50px;
     margin: 20px auto;
 }
+
+#header-img {
+    width: 120px;
+    height: auto;
+}
+
 h1 {
     text-align: center;
     color: ivory;
 
 }
+
 nav {
     text-align: center;
 }
+
 .mo {
     color: ivory;
     margin: 0 10px;
 }
+
 .menu-box {
     width: 90%;
     height: 400px;
@@ -27,6 +37,7 @@ nav {
     margin: 20px auto;
     border-radius: 50px;
 }
+
 h2 {
     color: ivory;
 }
