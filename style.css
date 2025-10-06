@@ -115,7 +115,6 @@ h2 {
 }
 
 .order-section {
-    background-color: ;
     padding: 15px;
     border-radius: 10px;
 }
@@ -127,9 +126,4 @@ h2 {
 
 textarea {
     text-align: center;
-}
-
-#data-entry {
-    text-align: center;
-    margin-top: 20px;
 }
