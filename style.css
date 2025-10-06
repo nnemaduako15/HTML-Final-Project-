@@ -35,11 +35,13 @@ h1 {
 
 nav {
     text-align: center;
+    white-space: nowrap;
 }
 
 .mo {
     color: ivory;
-    margin: 0 10%;
+    margin: 0 10px;
+    font-weight: bold;
 }
 
 .box {
