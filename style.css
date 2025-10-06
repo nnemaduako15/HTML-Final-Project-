@@ -41,12 +41,17 @@ nav {
 
 .box {
     width: 90%;
-    height: 400px;
+    min-height: 400px;
     background-color: darkolivegreen;
     margin: 20px auto;
     border-radius: 50px;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 h2 {
     color: ivory;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
