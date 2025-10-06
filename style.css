@@ -78,13 +78,24 @@ h2 {
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 20px;
-    text-align: center;
-    align-items: center;
+    
     
 }
 
 .menu-item {
+    background-color: ivory;
+    padding: 15px;
+    border-radius: 10px;
+    color: ;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 
+}
+
+.menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
 }
 
 .item-title {
