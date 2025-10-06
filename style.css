@@ -72,3 +72,26 @@ h2 {
 #order-title {
     color: darkolivegreen;
 }
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.menu-item {
+
+}
+
+.item-title {
+
+}
+
+.item-img {
+
+}
+
+.item-desc {
+
+}
