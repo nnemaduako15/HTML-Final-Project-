@@ -86,7 +86,6 @@ h2 {
     background-color: ivory;
     padding: 15px;
     border-radius: 10px;
-    color: ;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 
@@ -94,19 +93,17 @@ h2 {
 
 .menu-item img {
     width: 100%;
-    height: auto;
+    height: 200px;
     border-radius: 5px;
+    object-fit: cover;
 }
 
 .item-title {
-
-}
-
-.item-img {
-    
+    color: darkolivegreen;
 
 }
 
 .item-desc {
+    font-style: italic;
 
 }
