@@ -125,15 +125,11 @@ h2 {
     text-align: center;
 }
 
-.data-entry {
-    text-align: center;
-    margin-top: 20px;
-}
-
 textarea {
     text-align: center;
 }
 
 #data-entry {
     text-align: center;
+    margin-top: 20px;
 }
